@@ -1,0 +1,7 @@
+{
+  "name": "Shorts Player",
+  "description": "A vertical video frame player with neon cyberpunk styling and YouTube Shorts URL embed transformer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
